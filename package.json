@@ -3,8 +3,11 @@
 	"author": "Angel Rolon",
 	"description": "A project learning how not to code",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+    "express": "^4.16.4",
+    "@freecodecamp/example": "^1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
