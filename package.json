@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Angel Rolon",
+	"description": "A project learning how not to code",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
